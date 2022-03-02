@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumarreddykorsapati-source&show_icons=true&locale=en&layout=compact" alt="saikumarreddykorsapati-source" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saikumarreddykorsapati-source&show_icons=true&locale=en" alt="saikumarreddykorsapati-source" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=saikumarreddykorsapati-source&show_icons=true&locale=en" alt="saikumarreddykorsapati-source" width=500px height=500px /></p>
