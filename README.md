@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarreddykorsapati-source" alt="saikumarreddykorsapati-source" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Object Detection Techniques**
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision and Object Detection Techniques**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amanovishnu](https://github.com/amanovishnu)
+- 👨‍💻 All of my projects are available at [https://github.com/saikumarreddykorsapati-source](https://github.com/saikumarreddykorsapati-source)
 
-- 💬 Ask me about **Web Scrapping, Data Visualization, Exploratory Data Analysis**
+- 💬 Ask me about **Web Scrapping, Data Visualization, Exploratory Data Analysis, ML Models, Big Data Engineering, AWS Cloud**
 
-- 📫 How to reach me **geekymano@gmail.com**
+- 📫 How to reach me **mailtosai2k19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanovishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amanovishnu/" height="30" width="40" /></a>
-<a href="https://kaggle.com/geekymano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/geekymano" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanovishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amanovishnu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-kumar-reddy-korsapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-kumar-reddy-korsapati/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/saikumarkorsapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saikumarkorsapati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sai_korsapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sai_korsapati" height="30" width="40" /></a>
 </p>
 
 
