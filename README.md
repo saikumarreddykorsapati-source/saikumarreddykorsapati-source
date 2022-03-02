@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Mano Vishnu</h1>
-<h3 align="left">Data Science Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Sai Kumar</h1>
+<h3 align="left">Data Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanovishnu&label=Profile%20views&color=0e75b6&style=flat" alt="amanovishnu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarreddykorsapati-source&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarreddykorsapati-source" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanovishnu" alt="amanovishnu" /></a> </p>
 
