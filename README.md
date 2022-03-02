@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sai Kumar</h1>
-<h3 align="left">Data Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
+<h3 align="left">Aws Big Data Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarreddykorsapati-source&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarreddykorsapati-source" /> </p>
 
