@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sai-kumar-reddy-korsapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-kumar-reddy-korsapati/" height="30" width="40" /></a>
 <a href="https://kaggle.com/saikumarkorsapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saikumarkorsapati" height="30" width="40" /></a>
 <a href="https://medium.com/@mailtosai2k19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mailtosai2k19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sai_korsapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sai_korsapati" height="30" width="40" /></a>
