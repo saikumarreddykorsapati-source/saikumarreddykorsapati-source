@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Reddy Korsapati</h1>
-<h3 align="center">Aws Big Data Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
+<h3 align="center">Certified Tibco Spotfire Developer ( Data Analyst ) || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarreddykorsapati-source&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarreddykorsapati-source" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning, NLP and Computer Vision**
+ 
+**Status:** Experienced Working Professional
+
+**Certifications:**
+- Tibco Certified Associate Certification : (TCA) https://www.credly.com/badges/670c366b-1fcd-4214-bebc-1c61751ef311/public_url
+
+- Tibco Certified Professional Certification : (TCP) https://www.credly.com/badges/a99b4897-745e-4238-b756-705c2ce44821/public_url
+
+**Note:**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saikumarreddykorsapati-source](https://github.com/saikumarreddykorsapati-source)
 
