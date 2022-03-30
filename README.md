@@ -8,6 +8,9 @@
 **Status:** Experienced Working Professional
 
 **Certifications:**
+- AWS Certified Cloud Practitioner Certification (CLF-C01) : <br>
+https://www.credly.com/badges/22cbf616-9dd8-4348-bbec-3d657cfa681c/public_url
+
 - Tibco Certified Associate Certification : (TCA) <br>
 https://www.credly.com/badges/670c366b-1fcd-4214-bebc-1c61751ef311/public_url
 
