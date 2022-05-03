@@ -7,6 +7,8 @@
  
 **Status:** Experienced Working Professional
 
+**My Credly Profile - View All Certifications Done:** https://www.credly.com/users/korsapati-sai-kumar-reddy
+
 **Certifications:**
 - AWS Certified Cloud Practitioner Certification (CLF-C01) : <br>
 https://www.credly.com/badges/22cbf616-9dd8-4348-bbec-3d657cfa681c/public_url
