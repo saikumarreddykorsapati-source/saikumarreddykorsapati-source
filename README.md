@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Reddy Korsapati</h1>
- <h3 align="center">Azure Data Engineer - DP-203 Certified <!-- Certified Tibco Spotfire Developer ( Data Analyst ) || Aspiring Data Scientist || Machine Learning Enthusiast --> </h3> 
+ <h3 align="center">Full Stack Azure Data Engineer (DP-203 Certified) </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarreddykorsapati-source&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarreddykorsapati-source" /> </p>
 
@@ -26,16 +26,4 @@ https://www.credly.com/badges/a99b4897-745e-4238-b756-705c2ce44821/public_url
 <!-- - 💬 Ask me about **Web Scrapping, Data Visualization, Exploratory Data Analysis, ML Models, Big Data Engineering, AWS Cloud** -->
 
 - 📫 How to reach me **mailtosai2k19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sai-kumar-reddy-korsapati/" target="blank">
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumarreddykorsapati-source&show_icons=true&locale=en&" alt="saikumarreddykorsapati-source"/> </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumarreddykorsapati-source&show_icons=true&locale=en" alt="saikumarreddykorsapati-source"/>
-</p>
 
